@@ -1,0 +1,27 @@
+
+header{
+font-family:  'Georgia', Times, 'Times New Roman', serif;
+background-color: #4aaaa5;
+border-color: #cccccc;
+max-width: 39px;
+}
+
+footer{
+background-color: #ffffff; 
+
+
+}
+
+body{ 
+font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+font-size: medium
+}
+
+.gallery{ 
+color: #4aaaa5;
+
+}
+image{
+    border: 1px solid #ffffff;
+
+}
